@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\assets"><file name="province_data.xml" path="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\assets\province_data.xml"/></source></dataSet><dataSet config="debug"><source path="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\build-types\debug\assets"/></dataSet></merger>

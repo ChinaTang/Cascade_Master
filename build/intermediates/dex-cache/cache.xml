@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41168e442ddc048b6cb9192cf8d9d97982a7932e">
+        <dex dex="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\build\intermediates\pre-dexed\debug\instant-run_f7bbb3a94455e563887fb3a31ad6e5eee525b72b.jar" />
+    </item>
+    <item
+        jar="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f4142db9cdaf1cd5975f431aa5dc877352c5cb3">
+        <dex dex="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\build\intermediates\pre-dexed\debug\classes_a89c915b8bc6354ca60856e8d0ecdbcd7c2e8bbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\tangdi\Downloads\Cascade_Master\Cascade_Master\build\intermediates\pre-dexed\debug\android-support-v4_a3be6bc5a5ed7d682b70b9951c0106c89104e5bb.jar" />
+    </item>
+
+</items>
